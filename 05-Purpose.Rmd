@@ -3,7 +3,7 @@ title: "05-Purpose"
 output: html_document
 ---
 
-# Finding Purpose and Meaning {-}
+# Finding Purpose and Meaning
 
 - What problems need solving? 
 - What matters to me?

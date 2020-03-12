@@ -3,7 +3,7 @@ title: "01-Introduction"
 output: html_document
 ---
 
-# Introduction to OPA {-}
+# Introduction to OPA
 
 - What is this program about?
 - What are our goals?
@@ -70,10 +70,6 @@ Take a moment to look at the descriptions of these kinds of power and consider:
 - Where do you not have power? 
 - Are there sources of power that are not on this list that matter to you? 
 
-## Resources {-}
-- [For PhD's Seeking Jobs Outside Academia](http://paulboshears.com/2020/01/04/for-phds-seeking-jobs-outside-academia/) - Paul Boshears 
-- [Why it's So Hard to Leave Academe](https://www.chronicle.com/article/Why-It-s-So-Hard-to-Leave/233670) - Debra Erickson 
-
 ## Core Resources {-}
 
 There are a lot of resources we will share throughout but these are some of the core resources we've returned to again and again. 
@@ -85,5 +81,7 @@ There are a lot of resources we will share throughout but these are some of the 
 - [The Professor is In](http://theprofessorisin.com/)
 - [Roostervane](https://roostervane.com/)
 - [Wild Mind Collective](http://www.wildmindcollective.com/) 
+- [For PhD's Seeking Jobs Outside Academia](http://paulboshears.com/2020/01/04/for-phds-seeking-jobs-outside-academia/) - Paul Boshears 
+- [Why it's So Hard to Leave Academe](https://www.chronicle.com/article/Why-It-s-So-Hard-to-Leave/233670) - Debra Erickson 
 
 

@@ -5,7 +5,215 @@ output: html_document
 
 # Exercises {-}
 
-This is a spot where we've put all of the exercises that we've used in this workshop (and a couple we haven't) in one place. 
+This is a spot where we've put all of the exercises that we've used in this workshop (and a couple we haven't) are put in one place. 
+
+## Skills Inventory {-}
+
+The purpose of this worksheet is for people with a PhD to start to think about their skills in new ways and to move beyond the CV mindset. Our goal is to mine the academic experience for skills you have but may not have thought of as marketable. It's also a chance to consider what you truly enjoy doing and what you most want to spend your time doing in the future. 
+
+One very important note: Don't omit anything in this inventory because you think the skill is not "serious" enough. You might find that the things that you previously considered fun hobbies, side projects or thought experiments will help you discover what you are good at and want to do more of. 
+
+No question is required. If it doesn't make sense for you, skip it or change it so that it does make sense. At the end, there will be some summary questions that are best done once you've gone through each section. 
+
+
+#### Section 1 - Your Discipline {-}
+What do you love about your field of study? 
+ 
+When you did research or academic work in your field, what aspects did you enjoy the most?
+ 
+What made those aspects of your research or academic work so enjoyable?  
+   
+When you taught in your field, what aspects did you enjoy the most?
+   
+What made those aspects of teaching so enjoyable? 
+   
+Name at least five topics you would be able to give a 10 minute talk on with minimal preparation: 
+
+List the basic knowledge that everyone in your field should know and be able to do when they have a bachelor's degree. Put a star next to anything you have taught people how to do. 
+ 
+#### Section 2 - Teaching {-}
+List the courses you've taught:
+
+Which classes did you LOVE teaching? Why?
+
+Which part of teaching did you most enjoy? 
+For instance did you enjoy giving lectures? Reading course material? Facilitating classroom discussion? Writing the syllabus? Organizing the semester? Grading papers?
+
+List the resources you have as a result of teaching those courses? 
+E.g.  Syllabus, books/articles/materials, activities and exercises, contacts in the community 
+
+What innovative pedagogical practices have you used as a teacher? 
+For instance: one-class-at-a-time,  flipped classrooms, hybrid classrooms, service learning, off campus study, Socratic method etc. 
+
+Which online or computer based teaching tools are you familiar with?
+E.g. Moodle, Blackboard, D2L, Google Docs.  
+
+What positive things did students say about your teaching in evaluations? What did students say when they spoke favorably about your course's impact? 
+
+#### Section 3 - Research {-}
+Write the title for five blogs/opinion pieces/short essays that you could write today:
+
+How would describe your intellectual background to someone within your field?  In other words, what subfields within your field do you belong to?
+
+Which subfields within your field do you enjoy thinking/learning about but are not a part of your intellectual background?
+
+What research topics in your field are the most exciting to you? 
+
+List a minimum of five topics that you be well equipped to talk to the public about as a representative of your field. 
+Hint: if you've written an academic paper on a topic, you should list it here
+
+Imagine that someone who is intimately familiar with your research is also a reporter. They are calling you to comment on a news story. What are they calling you about
+
+Imagine someone were to hand you a blank check grant that gave you free reign to do any kind of intellectual work that you wanted to do. What would you want to spend that money on? It's ok to dream big. 
+
+#### Section 4 - Volunteer Work {-}
+List the causes you support. 
+This can be financial support but it may also be ideas you believe in. 
+ 
+List any committees you've served on.
+E.g. Boards, advisory groups, hiring committees, task forces, award committees
+
+List other volunteer work you have done. 
+This includes but is not limited to high school volunteer work, coaching your kid's soccer practice, helping out at a local fundraiser or religious activities. 
+
+List any public talks you've given, storytelling events you've attended, or podcasts you've been on.  
+
+What are people always asking you to help them with? 
+
+Imagine someone handed you enough money to live comfortably for the next year but in return you had to spend that year volunteering for an organization that you support. What organization/causes would you choose? 
+
+#### Section 5 - Leadership {-}
+List examples of times when you have been the organizer or coordinator for a group of people. You probably sent and received a lot of emails to a lot of people and/or tried to find time for multiple people to meet together. Hint: teaching a class counts.  
+ 
+What part of leading a group of people do you enjoy? 
+
+Thinking of the experiences you listed above, what made you successful at leading the group? What part of leadership do you excel at?
+ 
+#### Section 6 - Technical Skills {-}
+List all of the computer programs you have used in your work. 
+
+Have you ever created programs/workflows or systems to help you do the research or other work you were required to do? 
+Specialized spreadsheets/databases count. 
+
+What coding skills do you have? 
+Things that count: tinkering with css code, cutting and pasting code into a wordpress blog, knowing what GitHub is, learning programming languages (even if you only took one course), writing macros in Excel/google docs.  
+
+What languages do you speak? 
+List languages even if you only are slightly fluent with it or you can only read/write/speak the language or you learned it a long time ago and don't remember a lot.  
+ English 
+
+What countries have you spent time in? 
+Studying abroad as a college student counts. 
+ 
+#### Section 7 - Synthesis! {-}
+
+Now it's time to figure out how to boil all of this down to something you can put in a resume. 
+
+Go back through what you've written here in this skills inventory and highlight the things you've done/can do that you most enjoy. 
+
+List the top five things:  
+    Now star three of those. 
+    
+Is anything missing? What else do you love to do?
+
+Take each of the three starred things you enjoyed doing and list out the skills required to do these things. For instance, if you remarked that you enjoyed coordinating volunteer work and putting together a trip to Haiti for relief efforts, list out the specific things that were required to do that work (e.g. travel planning, emailing multiple people, recruitment) 
+
+Starred Skill #1: 
+    What is required to do this?
+
+Starred Skill #2: 
+     What is required to do this?
+ 
+Starred Skill #3: 
+     What is required to do this?
+ 
+If you had a job that required you to to use some combination of these three starred skills approximately 80% of the time, what would that be like? 
+
+Now take a look at the skills you've listed and think about how you might describe that skill in different industries or settings. How might you talk about this skill set with people who don't know your field? 
+Hint: this is a great question to talk to a mentor about! 
+
+Formulate questions for people in industries or with causes that interest you based on these starred skills. Here's a template: 
+
+>"I am skilled and passionate about ____[describe starred skill]_______, what do people who have that skill do in your field? What is the name of the work they do? What do they call this work? " 
+
+Now go ask people! 
+
+
+## Setting Conditions {-}
+
+One of the most powerful exercises I used when figuring out work after leaving academia was a [deceptively simple exercise on setting conditions by Steve August](https://medium.com/@SteveAugust/forget-new-years-resolutions-this-year-try-setting-your-conditions-94b437412b53).
+
+#### Make four lists: {-}
+
+1) What are my Must Have’s? — What you are going for? what you are trying to create for yourself?
+
+2) What will I Not Tolerate? — What are your deal breakers? If you see this, you’re out.
+
+3) What would be Nice to Have? — You’ll be fine without these things, but in a dream world, you’d love to have it.
+
+4) What will I Accept? — This isn’t exactly what you want but you’ll make it work if it’s there.
+
+#### Work Attributes {-}
+
+Thinking about the kind of work you might want next, make a list of the attributes that fit each category. You might consider the following work attributes you're setting conditions for:
+
+- The salary/money you will make.
+- Benefits such as health insurance or retirement.
+- Your work schedule (e.g. flexible scheduling versus a 9 to 5).
+- The geographic location (or remote) of the work you will be doing.
+- Travel (or lack of).
+- Career possibilities or future directions for this work.
+- Your needs with regard to family care giving.
+- Your needs with regard to self-care and personal well being.
+- How collaborative or individually focused will the work be.
+- Type of work you will do e.g. routinized work, creative work, analytical work.
+- What your workspace looks or feels like.
+- The collegiality of the people you will work with.
+
+Notice if certain work attributes are easier for you to set certain kinds of conditions versus other kinds of conditions. For instance, maybe you find it easy to say I “Must Have” a job whose salary meets the basic needs for my budget, but you may find it more challenging to put a salary for yourself that would be "Nice to have".
+
+Consider allowing yourself to ask for what you want while also accepting that you may not get everything you’re looking for. Maybe you’d “Like to Have” a job that’s remote but find yourself saying you “Will Accept” a job in one of three places where you could drive (even though that’s not ideal). This process asks you to put down on paper a first go at what you want and what you’re willing to accept.
+
+If you’re realizing there are a number of paths you might go down for Post Ac work, consider other work attributes besides the job itself. Is one of your “Must Haves” primarily individually focused work? If so, consider what impact that might have on the different paths you’re considering. You might then reconsider industries that require a great deal of working with others or presenting material to groups of people.
+
+If you’ve come from a particularly toxic work environment, I would strongly encourage you to spend significant time looking at which aspects of the toxic work environment you will put into your “I Will Not Tolerate” bucket. What specifically are your deal breakers? How will you know those things exist as you’re applying for a new work environment/working with a new client?
+
+That said, if you're coming from a toxic environment it’s equally important to think through what you’d put in your “Must Have” and “Nice to Have” buckets with regard to collegiality. What does a good workplace look and feel like to you? How will you know it when you see it? Making sure you set conditions to be considered a valued and welcomed employee should be central to your search, particularly if you’ve faced difficult environments in the past.
+
+Taking seriously your needs around family care giving and self-care and personal well being are vital in this exercise. You are encouraged to think about all of the aspects of your work life that will lead you towards success for you and your family.
+
+It is absolutely OK to prioritize picking up your kid from school, going to a mid-day therapy appointment or being able to travel last minute to take care of aging parents.
+
+These priorities may mean you need to move other things into your “Will Accept” list, but the conditions you set should reflect YOUR needs, not an organization’s needs.
+
+This exercise is iterative and as you do it, you might try out different conditions while looking at job boards or potential consulting gigs. I encourage you to let yourself be surprised. Things can change. You might find some conditions changing categories or being omitted altogether.
+
+When I left academia, I realized after doing a few consulting projects that I really liked collaborative work, even though it didn’t fit the stereotype I had about a researcher doing their analysis in an office. After some time, I moved “Collaborating with awesome people on work I enjoy” from my "Nice to Have" category into a "Must Have".
+But why do Post Acs not know how to do this?
+
+Most academics have had very little control over the job conditions in front of us when we are on the academic job market. We don’t often know what the salary will be, we’re shooting darts at the places we’re interested in geographically, we have no idea what our teaching schedule will look like or what kinds of work environment we might find ourselves in.
+
+Indeed, it’s a sign of someone who DOESN’T know the academic job market that they’ll say something like “Oh you should just check out [nearby university] and see if they’re hiring.”
+
+Uhhh. The Academic job market doesn’t work like that…
+
+This lack of control means we don’t have much experience looking for a work life that we WANT.
+
+We were taught in grad school to focus on what we could get instead of the conditions that might work best for us and encouraged to work around conditions others had set for us. That’s how many of us ended up in jobs in the middle of nowhere, in toxic departments or struggling to make ends meet. We were trained not to ask what would work best for us.
+
+We are also deep thinkers and so we spun out a dozen scenarios for ourselves about what we might do if this job worked out or that job was available. We did this often without asking if it was what we wanted.
+
+If I get this visiting gig, I can do it for a year, write that article to make myself more attractive to the school I really want where that one scholar might retire this year… Unless that other school has a position in which case I should really work on the book proposal… etc.
+
+In the non academic market, there are far more options and they are less path dependent. It’s not always clear what we can do to make ourselves more appealing to this kind of work or that kind of work. Post Acs can struggle with this openness in part because it makes it harder to spin out the scenarios and we get quickly overwhelmed at all the options in front of us. There are too many different directions we can share our skills, were do we GO?
+
+I could be try working in [Industry 1] but I don’t know if I want to do [Job A] or [Job B]. I could also do [Job B] In [Industry 2] and [Industry 3] but I have no idea if I would like those fields or even if there are jobs in my geographic area. Plus someone just said I might be good at [Job C].
+
+In this overwhelm, it can be worthwhile to explore setting conditions for the work we want and see where each job and industry lines up as it helps to limit the pool and have a higher likelihood of finding work that we like.
+
+This incidentally gives us concrete questions to ask folks in the industries we’re curious about. “I’m really interested in working in this field, but does your field meet my condition?”
+
+[*This exercise was also published as an article on Medium*](https://medium.com/@bduckles/setting-conditions-for-your-post-ac-career-418c1beb2e7c)
 
 
 
@@ -13,12 +221,12 @@ This is a spot where we've put all of the exercises that we've used in this work
 
 In this exercise, we're working with what has happened to us and asking some questions to examine our experiences more broadly. We want to seek a wider understanding of what happened with regard to the institutions and fields that we are a part of and start to ask these institutions and structures to be more accountable for what occurred. 
 
-### 1) Describe what happened to you.  
+#### 1) Describe what happened to you.  {-}
 Describe something that happened that still hurts. Write out for yourself what it looked like from your perspective. Really let yourself take some time to write out the grievance and all the players in your story. 
 
 If your story is too raw for you and you'd still like some practice at broadening a story. It is sometimes easier to look at other people's stories instead of your own. Below are three examples that you can use for discussion. 
 
-### 2) Who else might have experienced something similar?
+### 2) Who else might have experienced something similar? {-}
 Do you know of anyone else who has experienced something similar to what you have? If the answer is yes, then describe who it is. How are they similar to you? In what ways did they experience what you experienced?
 
 If you don't know anyone who has experienced something similar, start by considering if it's theoretically possible for others to have had something similar happen to them. If so, try to imagine who might be able to relate (yes, you are using your imagination here). 
@@ -27,17 +235,17 @@ Consider generalizing to a group of people. Could you imagine other women experi
 
 This is also a good time to look for first person accounts of such issues and in particular to see if there is any Quit Lit that is similar. Start with the resources section in this lesson and go through to see which of them is most closely related to what you experienced. 
 
-### 3) Who has power and who does not? 
+#### 3) Who has power and who does not?  {-}
 In looking at your story, now it's time to consider the power structure. Is there a power imbalance here? Where did you have power? Where did someone have power over you? What were the things that were out of your control? Who has recourse? Who does not have recourse?  
 
 Did the power structure have any influence on what happened? Would there have been a different outcome if you had had more power or a different kind of power?  Consider that there are [different types of power](https://en.wikipedia.org/wiki/French_and_Raven%27s_bases_of_power). [Original article with 5 power types here](http://www.communicationcache.com/uploads/1/0/8/8/10887248/the_bases_of_social_power_-_chapter_20_-_1959.pdf)  What kinds of power did you have? What kinds of power were used over you? 
 
-### 4) What role did the institution(s) play in your story? 
+#### 4) What role did the institution(s) play in your story? {-}
 For the next question it's helpful to think through different types of institutions that might be involved and make sure we're thinking past just the university where you went to school or were employed. Consider also: your disciplinary area of study and sub disciplinary groups, the state, the academic publishing industry, the journal system, the student loan and banking industry, the Greek System, your alma mater, the Ivies, athletics, alumni networks, the board of directors, the academic community as a whole, heteronormativity, privilege, patriarchal structures, the boys network, 
 
 What did the institution actually do (or not do)? Did anyone suggest that the institution would do something? What did they say? What actually happened? Was the power difference upheld by an institution? How? Are there hypocrisies in the actual actions taken (or not taken) by the institution? 
 
-### 5) What cultural beliefs supports those with power in your story?
+#### 5) What cultural beliefs supports those with power in your story? {-}
 What are the beliefs in these institutions that you named above, or broader beliefs that may have led to supporting what happened to you? Cultural beliefs can be thought of as "the way we do things here" Some examples of cultural beliefs include statements like: 
 
 - People who go to Ivy League schools/ have tenure/have Ph.D's are smarter.  
@@ -48,26 +256,33 @@ What are the beliefs in these institutions that you named above, or broader beli
 - If you don't succeed on the job market after two years/a Visiting Position/not getting an offer, you won't get a job. 
 - There's no reason to hire an applicant if they: are a trailing spouse/haven't gotten a tenure track job after two years/haven't published a solo article. 
 
-### 6) How does your reflection on these questions lead you to retell the story you told at the beginning?
+#### 6) How can you retell the story you told at the beginning? {-}
 What does a broader perspective add to your understanding of what happened to you?
 
-### Extra Credit: Fictional Stories 
+#### Extra Credit: Fictional Stories {-}
 
-It can sometimes help to do the Broadening the Story exercise on someone else's story. Particularly if you're having trouble figuring out how to do this with your own story, start by working on some fictional stories to get your mind around the task. (CW: assault) 
+It can sometimes help to do the Broadening the Story exercise on someone else's story because it can allow you to have some perspective on what others have faced and to feel some of the emotions you may have without referencing your own situation. 
 
-1) Jane is in her first year of teaching as a visiting assistant professor at a prestigious school she'd love to stay at. She was on the job market and gets an offer from a less prestigious college. She isn't sure if she wants to take it. Ideally, she'd stay where she is and get a tenure track position, something the dean has hinted at. 
+If you're having trouble figuring out how to do this exercise with your own story, start by working on these fictional stories to get your mind around the task. Alternatively you can use these questions with any quit lit article you find. 
+
+*(CW: assault)* 
+
+#### Jane {-}
+Jane is in her first year of teaching as a visiting assistant professor at a prestigious school she'd love to stay at. She was on the job market and gets an offer from a less prestigious college. She isn't sure if she wants to take it. Ideally, she'd stay where she is and get a tenure track position, something the dean has hinted at. 
 
 He said he a little while ago he could fund her for another year and is looking for the resources for a line for her. She hasn't received a contract in the mail from him for the next year, though he claims that's not a big deal. 
 
 She tells him she needs a contract before the decision is requested by the university that wants to hire her. He doesn't respond. When she takes the other job, all of her colleagues including the dean are astonished that she would leave for a "less desirable" school. 
 
-2) Marcia is a post doc in a lab and she has been increasingly concerned about her advisor's behavior with the international graduate students that depend on their status in the department for their visa. The advisor has made comments in lab meetings about "deportation" and joked that he can just take back their funding if they don't do their work as quickly as he wants it done. 
+#### Marcia {-}
+Marcia is a post doc in a lab and she has been increasingly concerned about her advisor's behavior with the international graduate students that depend on their status in the department for their visa. The advisor has made comments in lab meetings about "deportation" and joked that he can just take back their funding if they don't do their work as quickly as he wants it done. 
 
 When one grad student wanted to go home for a family funeral, the lab director made comments about her going on "vacation" and that people don't just get time off any time they want it. 
 
 Marcia has gone to the dean to talk about her advisor's behavior. He listens and says that he's friends with the professor and will talk to him. A week after talking to the dean, her advisor says to the lab that someone is "out to get him" and he thinks it's one of the international students. 
 
-3) Jake is a professor in his first year and he often travels to the city nearby to get some work done, see some friends and go on dates. He hasn't come out to any of his colleagues and doesn't wish to. 
+#### Jake {-}
+Jake is a professor in his first year and he often travels to the city nearby to get some work done, see some friends and go on dates. He hasn't come out to any of his colleagues and doesn't wish to. 
 
 On a night when he's out with a date with a man, he sees a female colleague who seems shocked at seeing him kiss a man. She exclaims that she didn't know he was gay. He considers himself bisexual but does not wish to have that conversation with his colleague, nor for his sexuality to be a part of his work environment. When he returns to campus, a colleague says something to him which makes him realize she has outed him without his consent. 
 

@@ -3,7 +3,7 @@ title: "06-Identity"
 output: html_document
 ---
 
-# Changing Identities {-}
+# Changing Identities
 
 - Who are you outside of the academy? 
 - How do we respond to the question "What do you do?" when we don't know?

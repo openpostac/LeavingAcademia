@@ -3,7 +3,7 @@ title: "04-Networking"
 output: html_document
 ---
 
-# Networking {-}
+# Networking
 
 - How can we make more connections to people outside of academia?
 - But I'm an introvert/hate being skeezy/don't want to bug people. 

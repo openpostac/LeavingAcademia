@@ -4,7 +4,7 @@ output: html_document
 ---
 # Appendices {-}
 
-## 1) Quit Lit {-}
+## a) Quit Lit {-}
 
 ### General Quit Lit {-}
 - [Ahmed, Sarah - "Speaking Out"](https://feministkilljoys.com/2016/06/02/speaking-out/) 
@@ -37,7 +37,7 @@ output: html_document
 - [Diamond, Julie - "Power: A User's Guide"](http://juliediamond.net/) Diamond starts with the idea that each person has power and the task is learning how to use it and work with it. She works with a number of guidelines and describes how to cultivate your own use of power in a way that enables you to see your blind spots and to do your work. 
 
 
-## 2) Human Homework {-}
+## b) Human Homework {-}
 
 Leaving the academy is a huge life shift and as the child of two psychologists (yes I know), I strongly encourage post acacadmics to do what my mom used to call your human homework. 
 
@@ -75,14 +75,14 @@ In fields where there is a belief that a "good" practitioner in the field has al
 
 I believe that ALL people need to do their human homework. All of us need to take time to investigate challenging experiences, to reaffirm our core beliefs and to heal from disruptive events. I don't think it matters what you do, but I do think it helps to move towards being a whole human. 
 
-## Human Homework Resources {-}
+### Human Homework Resources {-}
 
 To that end, I've compiled a list of resources as a starting place. Some of these may intrigue you, while others may turn you off. Just find the resources or methods that make sense to you and work with those. 
 
 If you have other suggestions of resources for doing your human homework please contribute them.  
 
 
-### Academics Doing Human Homework {-}
+#### Academics Doing Human Homework {-}
 
 - [Brene Brown](https://brenebrown.com/) Brene Brown is a professor of social work at UT Austin who did a [TEDx talk that went viral](https://www.ted.com/talks/brene_brown_on_vulnerability?language=en) about the power of vulnerability. She has a [follow up talk about listening to shame ](https://www.ted.com/talks/brene_brown_listening_to_shame) and has written several books based on her research. Among them are [Rising Strong](https://www.amazon.com/Rising-Strong-Ability-Transforms-Parent-ebook/dp/B00P5557G2/ref=sr_1_1?ie=UTF8&qid=1534878505&sr=8-1&keywords=rising+strong), [Daring Greatly](https://www.amazon.com/gp/product/1592408419/ref=dbs_a_def_rwt_bibl_vppi_i1) and the [Gifts of Imperfection](https://www.amazon.com/gp/product/159285849X/ref=dbs_a_def_rwt_bibl_vppi_i0).  
 - [Kristen Neff](http://self-compassion.org/) Her book on [Self-Compassion](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself-ebook/dp/B004JN1DBO/ref=sr_1_3?s=books&ie=UTF8&qid=1534958798&sr=1-3&keywords=Self+Compassion) works with existing research and explores how to cultivate and create practices of self-compassion in your life. Her website includes meditations and training programs. 
@@ -90,7 +90,7 @@ If you have other suggestions of resources for doing your human homework please 
 - [Martha Beck](https://marthabeck.com/) Martha is a former academic who has written memoirs, self help books and has created a tribe of people who are focused on finding direction. Among her books: [Finding Your Own North Star](https://www.amazon.com/Finding-Your-Own-North-Star-ebook/dp/B0019O6IXE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1534958698&sr=1-1&keywords=martha+beck), [Steering By Starlight](https://www.amazon.com/gp/product/1605298646/ref=dbs_a_def_rwt_bibl_vppi_i2), [Finding Your Way in a Wild New World](https://www.amazon.com/gp/product/1451624603/ref=dbs_a_def_rwt_bibl_vppi_i1).
 - [Viktor Frankl's](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) book "A Man's Search for Meaning" is written by a psychologist, chronicling his experiences in Auchwitz and how he came out of that experience to find meaning in his life. 
 
-### Books and Programs {-}
+#### Books and Programs {-}
 
 - [The Sedona Method](https://www.sedona.com/Home.asp) The Sedona Method is a technique of asking a sequence of questions that encourages the practitioner to "let go" of whatever emotions they are feeling in the moment. The technique is simple, but the book traces a number of ways to integrate this into one's life. 
 - [Byron Katie](http://thework.com/en) engages in what she calls  "The Work" which asks the participant to engage with their experiences in the world and ask questions about what they believe to tell the truth. The basics of working with her method are freely available on her website as are videos of her working with people.  
@@ -100,12 +100,12 @@ If you have other suggestions of resources for doing your human homework please 
 - [The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth](https://www.amazon.com/Road-Less-Traveled-Psychology-Traditional-ebook/dp/B0078XGEK2/ref=sr_1_2?crid=2SP2ZC3UDCEGA&keywords=the+road+less+traveled&qid=1583799418&s=digital-text&sprefix=the+road+less+trave%2Cdigital-text%2C212&sr=1-2) - A classic book by M. Scott Peck. 
 
 
-### Specifically for Women {-}
+#### Specifically for Women {-}
 - [Tara Mohr](https://www.taramohr.com/) is a woman who became frustrated with how many women in her life were not doing what they most wanted to do and were "playing small" in their lives. She created a book and subsequent workshops and online programs to help women. her work is called [Playing Big](https://www.taramohr.com/the-playing-big-book/).  
 - [The Dance of Anger: A Woman's Guide to Changing the Pattern of Intimate Relationships](https://www.harrietlerner.com/) a book by Harriet Lerner 
 
 
-### Meditation and Bodywork {-}
+#### Meditation and Bodywork {-}
 - [Pema Chodron](https://pemachodronfoundation.org/) -Buddhist nun, author and teacher who has written books about dealing with difficult emotions.  
 - ["The Power of Meditation: A 28 Day Program - Sharon Saltzberg](https://www.sharonsalzberg.com/)
 - [Adyashanti](https://www.adyashanti.org/) - A spiritual teacher who has written books on meditation and has been featured on podcasts and more. 
@@ -114,7 +114,7 @@ If you have other suggestions of resources for doing your human homework please 
 
 
 
-## 3) Structural Issues in the Academy {-}
+## c) Structural Issues in the Academy {-}
 
 Below I've listed a  variety of topics I've seen talked about in Quit Lit and Post Academic circles. The purpose of this is to encourage you to think through the many types of structural issues that folks face in the academy as they relate to your story. 
 
@@ -181,15 +181,17 @@ What resonates for you? What was true in terms of your experience? And what is m
 - The desire to have a life outside of academia
 
 
-## 4) Job Seeking Resources {-} 
+## d) Job Seeking Resources {-} 
 
 ### Academics {-} 
+
 - [So What Are You Going To Do With That? - Susan Basalla](https://www.amazon.com/What-Are-You-Going-That/dp/0374526214)
 - [The Professor is In - Karen Kelsky](http://theprofessorisin.com/buy-the-book/)
 - [Jobs on Toast](http://jobsontoast.com/)
 - [Versatile Ph.D.](https://versatilephd.com/)
 
 ### Offbeat Job Searching {-}  
+
 - [Born for This: How to Find the Work You Were Meant to Do - Chris Guillibeau](https://bornforthisbook.com/)
 - [How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When they Grow Up](https://www.harpercollins.com/9780062566652/how-to-be-everything/)
 - [Leap: Leaving a Job with No Plan B to Find the Career and Life You Really Want - Tess Vigeland](https://www.tessvigeland.com/)
@@ -214,7 +216,7 @@ What resonates for you? What was true in terms of your experience? And what is m
 - The concept of [Ikigai](https://en.wikipedia.org/wiki/Ikigai)
 
 
-## 5) Personal Finance Resources {-} 
+## e) Personal Finance Resources {-} 
 
 - [Personal Finance for PhDs ](http://pfforphds.com/)
 - [Mint](https://www.mint.com/) 
@@ -226,14 +228,14 @@ What resonates for you? What was true in terms of your experience? And what is m
 - [Your Money The Missing Manual - JD Roth](http://shop.oreilly.com/product/9780596809416.do)  
 - [Money Drunk/Money Sober - 90 Days To Financial Freedom by Mark Bryan and Julia Cameron](https://www.penguinrandomhouse.com/books/20308/money-drunkmoney-sober-by-mark-bryan-and-julia-cameron/9780345432650/)
 
-## Being Broke {-}
+### Being Broke {-}
 
 - [Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them by Joon Madriga](https://www.amazon.com/Rising-Strategies-Broke-At-Risk-Those/dp/151874043X/)
 - [Poorcraft: The Funnybook Fundamentals of Living Well on Less](https://www.amazon.com/dp/B00I9DOSDU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Hand to Mouth: Living in Bootstrap America  by Linda Tirado](https://www.amazon.com/dp/B00JPR5JA0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
-## Unique Money Perspectives {-}
+### Unique Money Perspectives {-}
 
 - [Your Money or Your Life - Vicki Robin and Joe Dominguez](https://yourmoneyoryourlife.com/) The perspectives in this book can change the way you think about money. There is also an internet community of folks who have worked through this book and consider their lives based on these ideas.  
 - [Sacred Economics - Charles Eisenstein](http://sacred-economics.com/) Eisenstein asks us to reconsider the use of money. He questions how we look at the economic system from gift economies to capitalism.  

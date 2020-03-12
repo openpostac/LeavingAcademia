@@ -3,7 +3,7 @@ title: "07-KnowledgeShare"
 output: html_document
 ---
 
-# Knowledge Sharing {-}
+# Knowledge Sharing
 
 - What tools do we have to share our knowledge?
 - What could we develop that would help us find more ways to share our knowledge?
@@ -121,7 +121,7 @@ Some like the idea of being a “public scholar” because it shows that you wan
 
 
 ## Media for Post Academics {-}
-We crowdsourced ideas for the kind of media environments that are interesting, engaging and which have a lean towards academic minded conversations. 
+We crowdsourced ideas for the kind of media environments that are interesting, engaging and which have a lean towards academic-minded conversations. 
 
 You could use this list to find interesting reading, think about new ideas or as places to pitch your writing or start up your twitter follow list! 
 
@@ -138,7 +138,7 @@ You could use this list to find interesting reading, think about new ideas or as
 - [Logic Magazine](https://logicmag.io)
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Made in China Journal](https://madeinchinajournal.com/)
-- [The Narwhal (online)](https://thenarwhal.ca/) 
+- [The Narwhal](https://thenarwhal.ca/) 
 - [New York Magazine](https://nymag.com/), 
 - [New York Times Magazine](https://www.nytimes.com/section/magazine) 
 - [The New Yorker](https://www.newyorker.com/magazine)
@@ -152,7 +152,7 @@ You could use this list to find interesting reading, think about new ideas or as
 ### News Outlets {-}
 
 - [Al Jazeera News](https://www.aljazeera.com/)
-- [BBC News](https://www.bbc.com/news) is great as well. 
+- [BBC News](https://www.bbc.com/news) 
 - [Pew Research Center](https://www.pewresearch.org/)
 - [Euronews](https://www.euronews.com/)
 - [South China Morning Post](https:https://www.scmp.com/)
@@ -180,7 +180,7 @@ You could use this list to find interesting reading, think about new ideas or as
 - [Roxane Gay](https://twitter.com/rgay)
 - [Garth Greenwell](https://twitter.com/GarthGreenwell) 
 - [N.K. Jemesin](https://twitter.com/nkjemisin)
-- [Porochista Khakpour](https://twitter.com/PKhakpour), 
+- [Porochista Khakpour](https://twitter.com/PKhakpour) 
 - [Lisa Munro](https://twitter.com/llmunro)
 - [Avigail Oren](https://twitter.com/HistorianOren)
 - [Shea Serrano](https://twitter.com/SheaSerrano)
@@ -188,7 +188,7 @@ You could use this list to find interesting reading, think about new ideas or as
 
 ### Facebook Groups {-}
 
-- [Archaeology Uncovered](https://www.facebook.com/groups/302913993667019/), 
+- [Archaeology Uncovered](https://www.facebook.com/groups/302913993667019/)
 - [Humans of New York](https://www.facebook.com/humansofnewyork/) 
 - [Humans of Bombay](https://www.facebook.com/humansofbombay/)
 - [Rethinking Pacific Island Research](https://www.facebook.com/RethinkingPacificIslandResearch/) 
@@ -201,5 +201,5 @@ You could use this list to find interesting reading, think about new ideas or as
 - [New York Public Library](https://www.nypl.org/)
 - [Philadelphia Public Library](https://www.freelibrary.org/)
 - [Politics and Prose website](https://www.politics-prose.com/)
-- [The Chronicle of Higher Ed](https://www.chronicle.com/article/You-Want-to-Write-for-the/247829?cid=rclink) has a series on how to write for publics
+- [The Chronicle of Higher Ed](https://www.chronicle.com/article/You-Want-to-Write-for-the/247829?cid=rclink) has a series on how to write for the public
 - [Vimeo.com](https://vimeo.com/)

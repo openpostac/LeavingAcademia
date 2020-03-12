@@ -3,7 +3,7 @@ title: "02-Openness"
 output: html_document
 ---
 
-# Working Openly {-}
+# Working Openly
 
 - Why work openly? 
 - What tools exist for open scholarship?
