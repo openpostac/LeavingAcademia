@@ -30,20 +30,23 @@ Purpose: To empower people with a PhD to share their knowledge and skills more o
 - To create a project that shares those skills openly.
 
 **Guiding Principles** 
+
 There are a few orienting beliefs for the OPA program: 
+
 - We assume that people with PhD's know their needs better than anyone else. We trust the participants in the program and the readers of this document make any changes for themselves to make the materials more useful for their needs.
 - We created a code of conduct because we believe that everyone in the program should feel safe. This is summarized as: 
 *Be respectful, honest, inclusive, accommodating, appreciative, and open to learning from everyone else. Do not attack, demean, disrupt, harass, or threaten others or encourage such behavior.* 
 - Mentors and Experts in the OPA program are there to listen, give resources and offer suggestions. It is entirely up to the person who is leaving academia to follow up and to do what makes sense for them. 
 - We ask all participants in the program to do an open project. This is a key way for the OPA program to show what participants are capable of. The project should be a minimum viable project that is not overly complex.  
 
+*Appreciation* 
+The OPA program and this document owes a great debt of gratitude to the support and leadership of the mentors and participants of the [Mozilla Open Leaders X](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/open-leaders-x/) program. 
 
+In particular support and suggestions from [Julia Stewart Lowndes](https://www.mozillapulse.org/profile/1560), [Abigail Cabunoc Mayes](https://www.mozillapulse.org/profile/62) and [Chad Sansing](https://www.mozillapulse.org/profile/58) have been instrumental. Thank you.  
 
 ## Contributing {-}
 
-**This is not a perfect document.** We're almost certainly missing resources and links as well as great articles and books that would be helpful to others with a PhD looking outside of academia. 
-
-There are additional topics we would like to work on for the future. This document is not finished. 
+**This is not a perfect document.** We're certainly missing resources and links as well as great articles and books that would be helpful to others with a PhD looking to create a life outside of academia. There are also additional topics we would like to work on for the future. This document is not finished. 
 
 Please help improve this document by sharing resources and materials that have helped you. You can do this by emailing openpostacs@gmail.com. 
 
